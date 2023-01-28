@@ -1,0 +1,36 @@
+* {
+    font-family: "Roboto", Arial, Helvetica, sans-serif
+}
+
+header {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    color: white;
+    background-color: black;
+    display: flex;
+}
+
+button {
+    color: white;
+    background-color: rgb(0, 136, 255);
+    border-radius: 5px;
+}
+
+.hero-image {
+    color: white;
+    background-color: darkgray;
+}
